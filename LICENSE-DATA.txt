@@ -1,0 +1,33 @@
+Bordeaux Writing Dataset License (Strict No-Use)
+Version 1.0 — © 2025 Alexandre S. All Rights Reserved.
+
+1. Definitions
+“Dataset” means the Bordeaux Writing network data and any accompanying files, exports, or subsets.
+
+2. License Grant (view-only)
+You may access and view the Dataset solely via the on-site interactive viewer for personal, non-commercial evaluation. No other rights are granted.
+
+3. Prohibited Uses (without prior written permission)
+You must NOT:
+(a) download, copy, reproduce, export, or redistribute the Dataset or any substantial part of it;
+(b) create derivative works, annotations, or new datasets from it;
+(c) perform or enable text and data mining, web scraping, crawling, automated harvesting, or bulk extraction;
+(d) use the Dataset to train, fine-tune, or evaluate machine-learning or AI systems;
+(e) benchmark or compare competing products using the Dataset;
+(f) reverse-engineer or otherwise obtain the Dataset outside the viewer;
+(g) remove/obscure notices, or circumvent access controls, rate limits, or security.
+
+4. Ownership
+The Dataset is owned by Alexandre S. and protected by applicable intellectual-property and database rights. All rights not expressly granted are reserved.
+
+5. Termination
+This license terminates automatically upon breach. Upon termination you must cease all use and delete any copies made in violation.
+
+6. No Warranties / Liability
+The Dataset is provided “AS IS” without warranties. To the maximum extent permitted by law, liability is disclaimed.
+
+7. Governing Law & Venue
+These terms are governed by the laws of France. Exclusive jurisdiction and venue lie in the courts of Paris, France.
+
+8. Contact
+For licensing inquiries, email: <your-email-here>
